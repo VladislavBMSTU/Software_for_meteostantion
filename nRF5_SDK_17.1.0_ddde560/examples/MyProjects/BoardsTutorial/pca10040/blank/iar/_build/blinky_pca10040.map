@@ -1,0 +1,311 @@
+###############################################################################
+#
+# IAR ELF Linker V9.20.1.318/W64 for ARM                  09/Nov/2023  12:35:49
+# Copyright 2007-2021 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\blinky_pca10040.out
+#    Map file     =
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\blinky_pca10040.map
+#    Command line =
+#        -f
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\blinky_pca10040.out.rsp
+#        (C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\app_error.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\app_error_handler_iar.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\app_error_weak.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\app_util_platform.o
+#        "C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Board
+#        Definition\boards.o"
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\None\iar_startup_nrf52.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Application\main.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_assert.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_atomic.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_balloc.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_fprintf.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_fprintf_format.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Log\nrf_log_frontend.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Log\nrf_log_str_formatter.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_memobj.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_ringbuf.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries\nrf_strerror.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Drivers\nrfx_atomic.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\None\system_nrf52.o
+#        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
+#        --no_out_extension -o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\blinky_pca10040.out
+#        --map
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\blinky_pca10040.map
+#        --config
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\blinky_iar_nRF5x.icf
+#        --warnings_are_errors --entry __iar_program_start --inline --vfe
+#        --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+define block RO_END with size = 0, alignment = 8 { };
+"P1":  place in [from 0x0 to 0x7'ffff] { ro, block RO_END };
+define block CSTACK with size = 8K, alignment = 8 { };
+define block HEAP with size = 8K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'ffff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+keep { section .intvec };
+
+  Section            Kind         Address    Size  Object
+  -------            ----         -------    ----  ------
+"A0":                                       0x200
+  .intvec            ro code          0x0   0x200  iar_startup_nrf52.o [3]
+                                  - 0x200   0x200
+
+"P1":                                       0x4f8
+  .text              ro code        0x200   0x240  system_nrf52.o [3]
+  .text              ro code        0x440    0xf8  boards.o [2]
+  .text              ro code        0x540    0x68  main.o [1]
+  .text              ro code        0x5a8    0x2a  copy_init3.o [9]
+  .text              ro code        0x5d2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x5d4    0x28  data_init.o [9]
+  .text              ro code        0x5fc    0x22  fpinit_M.o [8]
+  .iar.init_table    const          0x620    0x14  - Linker created -
+  .text              ro code        0x634     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x638    0x1e  cmain.o [9]
+  .text              ro code        0x656     0x4  exit.o [7]
+  .text              ro code        0x65a     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x65c     0xa  cexit.o [9]
+  .text              ro code        0x666     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x668     0xc  XXexit.o [9]
+  .text              ro code        0x674    0x1c  cstartup_M.o [9]
+  .text              ro code        0x690    0x10  iar_startup_nrf52.o [3]
+  Initializer bytes  const          0x6a0     0x4  <for P2-1>
+  .text              ro code        0x6a4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6a6     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6a8     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6aa     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ac     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ae     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6b0     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6b2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6b4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6b6     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6b8     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ba     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6bc     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6be     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6c0     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6c2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6c4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6c6     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6c8     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ca     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6cc     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ce     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6d0     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6d2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6d4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6d6     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6d8     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6da     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6dc     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6de     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6e0     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6e2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6e4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6e6     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6e8     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ea     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ec     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6ee     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6f0     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6f2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6f4     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x6f6     0x2  iar_startup_nrf52.o [3]
+  .rodata            const          0x6f8     0x0  copy_init3.o [9]
+                                  - 0x6f8   0x4f8
+
+"P2", part 1 of 2:                            0x4
+  P2-1                        0x2000'0000     0x4  <Init block>
+    .data            inited   0x2000'0000     0x4  system_nrf52.o [3]
+                            - 0x2000'0004     0x4
+
+"P2", part 2 of 2:                         0x2000
+  CSTACK                      0x2000'0008  0x2000  <Block>
+    CSTACK           uninit   0x2000'0008  0x2000  <Block tail>
+                            - 0x2000'2008  0x2000
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x6f8     0x7'ffff  0x7'f908
+  0x2000'0004  0x2000'0007       0x4
+  0x2000'2008  0x2000'ffff    0xdff8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Copy (__iar_copy_init3)
+    1 source range, total size 0x4:
+                0x6a0   0x4
+    1 destination range, total size 0x4:
+          0x2000'0000   0x4
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module               ro code  ro data  rw data
+    ------               -------  -------  -------
+command line/config:
+    ----------------------------------------------
+    Total:
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Application: [1]
+    main.o                   104
+    ----------------------------------------------
+    Total:                   104
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Board Definition: [2]
+    boards.o                 248
+    ----------------------------------------------
+    Total:                   248
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\None: [3]
+    iar_startup_nrf52.o      620
+    system_nrf52.o           576        4        4
+    ----------------------------------------------
+    Total:                 1'196        4        4
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Drivers: [4]
+    ----------------------------------------------
+    Total:
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries: [5]
+    ----------------------------------------------
+    Total:
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Log: [6]
+    ----------------------------------------------
+    Total:
+
+dl7M_tlf.a: [7]
+    exit.o                     4
+    ----------------------------------------------
+    Total:                     4
+
+m7M_tls.a: [8]
+    fpinit_M.o                34
+    ----------------------------------------------
+    Total:                    34
+
+rt7M_tl.a: [9]
+    XXexit.o                  12
+    cexit.o                   10
+    cmain.o                   30
+    copy_init3.o              42
+    cstartup_M.o              28
+    data_init.o               40
+    ----------------------------------------------
+    Total:                   162
+
+    Gaps                      10        2
+    Linker created                     20    8'192
+--------------------------------------------------
+    Grand Total:           1'758       26    8'196
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base         0x620          --   Gb  - Linker created -
+.iar.init_table$$Limit        0x634          --   Gb  - Linker created -
+?main                         0x639         Code  Gb  cmain.o [9]
+CSTACK$$Base            0x2000'0008          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'2008          --   Gb  - Linker created -
+Region$$Table$$Base           0x620          --   Gb  - Linker created -
+Region$$Table$$Limit          0x634          --   Gb  - Linker created -
+SystemCoreClock         0x2000'0000    0x4  Data  Gb  system_nrf52.o [3]
+SystemInit                    0x201  0x1d4  Code  Gb  system_nrf52.o [3]
+__ICFEDIT_region_RAM_end__ {Abs}
+                        0x2000'ffff         Data  Gb  <internal module>
+__ICFEDIT_region_RAM_start__ {Abs}
+                        0x2000'0000         Data  Gb  <internal module>
+__Vectors                       0x0          --   Gb  iar_startup_nrf52.o [3]
+__Vectors_End                 0x200         Data  Gb  iar_startup_nrf52.o [3]
+__Vectors_Size {Abs}          0x200          --   Gb  iar_startup_nrf52.o [3]
+__cmain                       0x639         Code  Gb  cmain.o [9]
+__exit                        0x669         Code  Gb  XXexit.o [9]
+__iar_copy_init3              0x5a9   0x2a  Code  Gb  copy_init3.o [9]
+__iar_data_init3              0x5d5   0x28  Code  Gb  data_init.o [9]
+__iar_init_vfp                0x5fd         Code  Gb  fpinit_M.o [8]
+__iar_program_start           0x675         Code  Gb  cstartup_M.o [9]
+__vector_table                  0x0         Data  Gb  iar_startup_nrf52.o [3]
+_call_main                    0x645         Code  Gb  cmain.o [9]
+_exit                         0x65d         Code  Gb  cexit.o [9]
+bsp_board_init                0x4e5   0x4c  Code  Gb  boards.o [2]
+bsp_board_led_invert          0x4c1   0x1a  Code  Gb  boards.o [2]
+bsp_board_led_off             0x495    0x8  Code  Gb  boards.o [2]
+bsp_board_led_on              0x48d    0x8  Code  Gb  boards.o [2]
+bsp_board_leds_off            0x49d   0x12  Code  Gb  boards.o [2]
+bsp_board_leds_on             0x4af   0x12  Code  Gb  boards.o [2]
+exit                          0x657    0x4  Code  Gb  exit.o [7]
+m_board_btn_list              0x534    0x4  Data  Lc  boards.o [2]
+m_board_led_list              0x530    0x4  Data  Lc  boards.o [2]
+main                          0x55b   0x38  Code  Gb  main.o [1]
+nrf_delay_ms                  0x541   0x1a  Code  Lc  main.o [1]
+nrf_gpio_cfg                  0x447   0x24  Code  Lc  boards.o [2]
+nrf_gpio_pin_port_decode
+                              0x441    0x6  Code  Lc  boards.o [2]
+nrf_gpio_pin_write            0x46b   0x22  Code  Lc  boards.o [2]
+nrfx_coredep_delay_us::delay_machine_code
+                              0x5a0    0x8  Data  Lc  main.o [1]
+
+
+[1] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Application
+[2] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\Board Definition
+[3] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\None
+[4] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Drivers
+[5] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Libraries
+[6] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\BoardsTutorial\pca10040\blank\iar\_build\nRF_Log
+[7] = dl7M_tlf.a
+[8] = m7M_tls.a
+[9] = rt7M_tl.a
+
+  1'758 bytes of readonly  code memory
+     26 bytes of readonly  data memory
+  8'196 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

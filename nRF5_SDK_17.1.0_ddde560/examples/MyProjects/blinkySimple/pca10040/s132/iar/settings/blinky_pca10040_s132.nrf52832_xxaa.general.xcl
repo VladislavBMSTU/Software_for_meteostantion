@@ -1,0 +1,13 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armJLINK.dll" 
+
+"C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\blinky\pca10040\s132\iar\_build\blinky_pca10040_s132.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\config\debugger\NordicSemi\nRF52_1.dmac" 
+
+
+
+

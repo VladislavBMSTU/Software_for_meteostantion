@@ -1,0 +1,20 @@
+# ninja log v5
+2	112	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Drivers/nrfx_timer.xcl	8deffe5cd2145d68
+6	140	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_util_platform.xcl	8bc3467e6b3e0c5e
+4	172	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_error.xcl	dc490ef61943a8a5
+7	199	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_error_handler_iar.xcl	625becb07f925901
+11	225	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_error_weak.xcl	74cfcc81a6d7f18a
+9	252	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Drivers/nrfx_atomic.xcl	b8363d7a39bb3a41
+138	373	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_memobj.xcl	7cad0bdd8f587ba5
+249	400	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_fprintf_format.xcl	d33b571bf71b5aac
+164	427	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_atomic.xcl	56abbad610eee660
+223	453	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_assert.xcl	f349ac67c240cdbf
+197	479	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_balloc.xcl	d3587de4de36b738
+276	505	7212343380000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_fprintf.xcl	96adfc32e98b1c19
+478	616	7212343390000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_ringbuf.xcl	8405f2cf748ee64b
+451	643	7212343390000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/nrf_strerror.xcl	ba725eb0b01d75fd
+425	672	7212343390000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Log/nrf_log_str_formatter.xcl	d4e4d6afbb0ca3d0
+399	704	7212343390000000	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Log/nrf_log_frontend.xcl	945be0d483cd724b
+529	757	7212343391442832	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_error.pbi	97c09fcebb4f91b6
+504	889	7212343392753128	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Drivers/nrfx_atomic.pbi	46e5b70e1897dc1f
+642	920	7212343393053204	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/timerTutorial/pca10056/blank/iar/nrf52840_xxaa/BrowseInfo/nRF_Libraries/app_error_weak.pbi	c3c374dd821f7c1f

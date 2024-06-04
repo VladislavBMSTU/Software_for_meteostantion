@@ -1,0 +1,37 @@
+# ninja log v5
+72	660	7236362996185876	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/None/iar_startup_nrf52.o	b6c7ff5733db2896
+14	1807	7236363006348166	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Board Definition/boards.o	ac643b17f84220e4
+2171	2569	7236363015190157	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_memobj.o	cd644c3f5847eee
+2088	2522	7236363014680043	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_ringbuf.o	fe07d497260ebd20
+180	1647	7236363005878070	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/app_error_handler_iar.o	a886b9f1a0790579
+211	1682	7236363005898065	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Drivers/nrfx_atomic.o	335dcd3b03b16c20
+3	254	7239948639525299	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Application/main.o	f001624211c82b3e
+48	1756	7236363005948078	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/app_util_platform.o	52fc06c4229adc73
+693	1842	7236363006518206	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/None/system_nrf52.o	deccf623b6325bf0
+1753	2009	7236363009568895	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_assert.o	33b87cef94743255
+1679	2053	7236363009788946	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/app_error.o	7f3bfbe3648bce1d
+1840	2104	7236363010109012	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf.o	f2b7e3227c24e124
+1717	2138	7236363010559117	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/app_error_weak.o	f1a9fb8e4fa44ea9
+1876	2187	7236363011019227	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_atomic.o	bb23986e38c9987
+2038	2625	7236363015730280	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf_format.o	1fb947a2e930138a
+1790	2223	7236363011169251	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_balloc.o	bf8e533991aec88
+2135	2381	7236363013299737	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Log/nrf_log_str_formatter.o	96999bd3a5a8fed2
+2221	2426	7236363013449770	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Log/nrf_log_frontend.o	987ee8567bf158c2
+2257	2474	7236363014229942	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/nRF_Libraries/nrf_strerror.o	2ed8950f71c4c26d
+282	348	7239948640515525	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+374	380	7239948640885607	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7
+2	193	7239949014913260	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Application/main.o	f001624211c82b3e
+223	275	7239949015763455	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+299	304	7239949016113532	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7
+3	192	7239949971410839	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Application/main.o	f001624211c82b3e
+226	279	7239949972311042	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+309	315	7239949972731140	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7
+2	192	7239959843942148	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Application/main.o	f001624211c82b3e
+226	279	7239959844842352	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+309	314	7239959845252452	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7
+3	526	7239960275990119	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/None/system_nrf52.o	deccf623b6325bf0
+549	601	7239960276790214	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+625	630	7239960277130293	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7
+3	193	7239960391715258	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/Application/main.o	f001624211c82b3e
+221	279	7239960392605462	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.out	a7e92e72dd092fa2
+304	309	7239960392965541	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/blinkySimple/pca10040/blank/iar/_build/blinky_pca10040.hex	7deeb5f3368386c7

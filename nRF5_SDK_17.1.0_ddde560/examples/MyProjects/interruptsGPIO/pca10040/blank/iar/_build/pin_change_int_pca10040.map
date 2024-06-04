@@ -1,0 +1,349 @@
+###############################################################################
+#
+# IAR ELF Linker V9.20.1.318/W64 for ARM                  09/Nov/2023  14:45:54
+# Copyright 2007-2021 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\pin_change_int_pca10040.out
+#    Map file     =
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\pin_change_int_pca10040.map
+#    Command line =
+#        -f
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\pin_change_int_pca10040.out.rsp
+#        (C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\app_error.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\app_error_handler_iar.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\app_error_weak.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\app_util_platform.o
+#        "C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Board
+#        Definition\boards.o"
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\None\iar_startup_nrf52.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Application\main.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_assert.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_atomic.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_balloc.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_fprintf.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_fprintf_format.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Log\nrf_log_frontend.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Log\nrf_log_str_formatter.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_memobj.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_ringbuf.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries\nrf_strerror.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Drivers\nrfx_atomic.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Drivers\nrfx_gpiote.o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\None\system_nrf52.o
+#        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
+#        --no_out_extension -o
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\pin_change_int_pca10040.out
+#        --map
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\pin_change_int_pca10040.map
+#        --config
+#        C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\pin_change_int_iar_nRF5x.icf
+#        --warnings_are_errors --entry __iar_program_start --inline --vfe
+#        --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+define block RO_END with size = 0, alignment = 8 { };
+"P1":  place in [from 0x0 to 0x7'ffff] { ro, block RO_END };
+define block CSTACK with size = 8K, alignment = 8 { };
+define block HEAP with size = 8K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'ffff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+keep { section .intvec };
+
+  Section            Kind         Address    Size  Object
+  -------            ----         -------    ----  ------
+"A0":                                       0x200
+  .intvec            ro code          0x0   0x200  iar_startup_nrf52.o [3]
+                                  - 0x200   0x200
+
+"P1":                                       0x97c
+  .text              ro code        0x200   0x484  nrfx_gpiote.o [4]
+  .text              ro code        0x684     0x6  ABImemclr.o [9]
+  .text              ro code        0x68a    0x2a  copy_init3.o [9]
+  .text              ro code        0x6b4    0x5e  ABImemset.o [9]
+  .text              ro code        0x712     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x714   0x240  system_nrf52.o [3]
+  .text              ro code        0x954    0x6c  main.o [1]
+  .text              ro code        0x9c0    0x1e  app_error.o [5]
+  .text              ro code        0x9de     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0x9e0    0x34  app_error_weak.o [5]
+  .text              ro code        0xa14    0x38  zero_init3.o [9]
+  .text              ro code        0xa4c    0x28  data_init.o [9]
+  .text              ro code        0xa74    0x22  fpinit_M.o [8]
+  .iar.init_table    const          0xa98    0x24  - Linker created -
+  .text              ro code        0xabc     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xac0    0x1e  cmain.o [9]
+  .text              ro code        0xade     0x4  exit.o [7]
+  .text              ro code        0xae2     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xae4     0xa  cexit.o [9]
+  .text              ro code        0xaee     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xaf0     0xc  XXexit.o [9]
+  .text              ro code        0xafc    0x1c  cstartup_M.o [9]
+  .text              ro code        0xb18    0x10  iar_startup_nrf52.o [3]
+  Initializer bytes  const          0xb28     0x4  <for P2-1>
+  .text              ro code        0xb2c     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb2e     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb30     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb32     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb34     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb36     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb38     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb3a     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb3c     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb3e     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb40     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb42     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb44     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb46     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb48     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb4a     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb4c     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb4e     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb50     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb52     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb54     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb56     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb58     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb5a     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb5c     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb5e     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb60     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb62     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb64     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb66     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb68     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb6a     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb6c     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb6e     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb70     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb72     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb74     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb76     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb78     0x2  iar_startup_nrf52.o [3]
+  .text              ro code        0xb7a     0x2  iar_startup_nrf52.o [3]
+  .rodata            const          0xb7c     0x0  zero_init3.o [9]
+  .rodata            const          0xb7c     0x0  copy_init3.o [9]
+                                  - 0xb7c   0x97c
+
+"P2", part 1 of 3:                            0x4
+  P2-1                        0x2000'0000     0x4  <Init block>
+    .data            inited   0x2000'0000     0x4  system_nrf52.o [3]
+                            - 0x2000'0004     0x4
+
+"P2", part 2 of 3:                           0x4c
+  .bss               zero     0x2000'0004    0x4c  nrfx_gpiote.o [4]
+                            - 0x2000'0050    0x4c
+
+"P2", part 3 of 3:                         0x2000
+  CSTACK                      0x2000'0050  0x2000  <Block>
+    CSTACK           uninit   0x2000'0050  0x2000  <Block tail>
+                            - 0x2000'2050  0x2000
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0xb7c     0x7'ffff  0x7'f484
+  0x2000'2050  0x2000'ffff    0xdfb0
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x4c:
+          0x2000'0004  0x4c
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x4:
+                0xb28   0x4
+    1 destination range, total size 0x4:
+          0x2000'0000   0x4
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module               ro code  ro data  rw data
+    ------               -------  -------  -------
+command line/config:
+    ----------------------------------------------
+    Total:
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Application: [1]
+    main.o                   108
+    ----------------------------------------------
+    Total:                   108
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Board Definition: [2]
+    ----------------------------------------------
+    Total:
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\None: [3]
+    iar_startup_nrf52.o      618
+    system_nrf52.o           576        4        4
+    ----------------------------------------------
+    Total:                 1'194        4        4
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Drivers: [4]
+    nrfx_gpiote.o          1'156                76
+    ----------------------------------------------
+    Total:                 1'156                76
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries: [5]
+    app_error.o               30
+    app_error_weak.o          52
+    ----------------------------------------------
+    Total:                    82
+
+C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Log: [6]
+    ----------------------------------------------
+    Total:
+
+dl7M_tlf.a: [7]
+    exit.o                     4
+    ----------------------------------------------
+    Total:                     4
+
+m7M_tls.a: [8]
+    fpinit_M.o                34
+    ----------------------------------------------
+    Total:                    34
+
+rt7M_tl.a: [9]
+    ABImemclr.o                6
+    ABImemset.o               94
+    XXexit.o                  12
+    cexit.o                   10
+    cmain.o                   30
+    copy_init3.o              42
+    cstartup_M.o              28
+    data_init.o               40
+    zero_init3.o              56
+    ----------------------------------------------
+    Total:                   318
+
+    Gaps                       2        2
+    Linker created                     36    8'192
+--------------------------------------------------
+    Grand Total:           2'898       42    8'272
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base         0xa98          --   Gb  - Linker created -
+.iar.init_table$$Limit        0xabc          --   Gb  - Linker created -
+?main                         0xac1         Code  Gb  cmain.o [9]
+CSTACK$$Base            0x2000'0050          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'2050          --   Gb  - Linker created -
+GPIOTE_IRQHandler             0x553  0x108  Code  Gb  nrfx_gpiote.o [4]
+Region$$Table$$Base           0xa98          --   Gb  - Linker created -
+Region$$Table$$Limit          0xabc          --   Gb  - Linker created -
+SystemCoreClock         0x2000'0000    0x4  Data  Gb  system_nrf52.o [3]
+SystemInit                    0x715  0x1d4  Code  Gb  system_nrf52.o [3]
+__ICFEDIT_region_RAM_end__ {Abs}
+                        0x2000'ffff         Data  Gb  <internal module>
+__ICFEDIT_region_RAM_start__ {Abs}
+                        0x2000'0000         Data  Gb  <internal module>
+__Vectors                       0x0          --   Gb  iar_startup_nrf52.o [3]
+__Vectors_End                 0x200         Data  Gb  iar_startup_nrf52.o [3]
+__Vectors_Size {Abs}          0x200          --   Gb  iar_startup_nrf52.o [3]
+__aeabi_memclr                0x685         Code  Gb  ABImemclr.o [9]
+__cmain                       0xac1         Code  Gb  cmain.o [9]
+__exit                        0xaf1         Code  Gb  XXexit.o [9]
+__iar_Memset_word             0x6b5         Code  Gb  ABImemset.o [9]
+__iar_copy_init3              0x68b   0x2a  Code  Gb  copy_init3.o [9]
+__iar_data_init3              0xa4d   0x28  Code  Gb  data_init.o [9]
+__iar_init_vfp                0xa75         Code  Gb  fpinit_M.o [8]
+__iar_program_start           0xafd         Code  Gb  cstartup_M.o [9]
+__iar_zero_init3              0xa15   0x38  Code  Gb  zero_init3.o [9]
+__vector_table                  0x0         Data  Gb  iar_startup_nrf52.o [3]
+_call_main                    0xacd         Code  Gb  cmain.o [9]
+_exit                         0xae5         Code  Gb  cexit.o [9]
+app_error_fault_handler
+                              0x9e1   0x34  Code  Wk  app_error_weak.o [5]
+app_error_handler_bare        0x9c1   0x1e  Code  Gb  app_error.o [5]
+channel_free                  0x391   0x18  Code  Lc  nrfx_gpiote.o [4]
+channel_port_alloc            0x34f   0x42  Code  Lc  nrfx_gpiote.o [4]
+exit                          0xadf    0x4  Code  Gb  exit.o [7]
+gpio_init                     0x969   0x3c  Code  Gb  main.o [1]
+input_pin_handle              0x955   0x14  Code  Gb  main.o [1]
+m_cb                    0x2000'0004   0x4c  Data  Lc  nrfx_gpiote.o [4]
+main                          0x9b5    0x8  Code  Gb  main.o [1]
+nrf_bitmask_bit_is_set        0x2dd   0x12  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_cfg                  0x235   0x24  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_cfg_sense_set        0x259   0x2e  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_latches_read_and_clear
+                              0x29d   0x28  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_pin_port_decode
+                              0x22f    0x6  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_pin_present_check
+                              0x2c5   0x18  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpio_pin_read             0x287   0x16  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpiote_event_addr_get
+                              0x22d    0x2  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpiote_event_clear        0x213   0x1a  Code  Lc  nrfx_gpiote.o [4]
+nrf_gpiote_event_is_set
+                              0x201   0x12  Code  Lc  nrfx_gpiote.o [4]
+nrfx_gpiote_in_event_enable
+                              0x4d3   0x80  Code  Gb  nrfx_gpiote.o [4]
+nrfx_gpiote_in_init           0x427   0xac  Code  Gb  nrfx_gpiote.o [4]
+nrfx_gpiote_init              0x3a9   0x74  Code  Gb  nrfx_gpiote.o [4]
+pin_configured_set            0x327    0xa  Code  Lc  nrfx_gpiote.o [4]
+pin_in_use_by_gpiote          0x317   0x10  Code  Lc  nrfx_gpiote.o [4]
+pin_in_use_by_port            0x301   0x16  Code  Lc  nrfx_gpiote.o [4]
+pin_in_use_by_te              0x2ef   0x12  Code  Lc  nrfx_gpiote.o [4]
+
+
+[1] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Application
+[2] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\Board Definition
+[3] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\None
+[4] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Drivers
+[5] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Libraries
+[6] = C:\Users\MusatovDA\plataMedcontrol\nRF5_SDK_17.1.0_ddde560\examples\MyProjects\interruptsGPIO\pca10040\blank\iar\_build\nRF_Log
+[7] = dl7M_tlf.a
+[8] = m7M_tls.a
+[9] = rt7M_tl.a
+
+  2'898 bytes of readonly  code memory
+     42 bytes of readonly  data memory
+  8'272 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

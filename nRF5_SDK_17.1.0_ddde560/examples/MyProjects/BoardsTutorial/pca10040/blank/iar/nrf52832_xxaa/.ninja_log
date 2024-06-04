@@ -1,0 +1,43 @@
+# ninja log v5
+7	19	7212247754683402	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/None/iar_startup_nrf52.o	60309a8a4f82702
+4	262	7212247757003907	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_util_platform.o	63075ccb137ec6df
+2	308	7212247757263970	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/Application/main.o	d37dca2ac392bce3
+46	345	7212247757464011	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf.o	40b89258dbcb6ebd
+5	460	7212247757814098	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/Board Definition/boards.o	8398e1ab5c06933d
+10	495	7212247757594043	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_balloc.o	688fa2aedd330747
+8	542	7212247759654509	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf_format.o	b0e2733277094482
+288	661	7212247761014825	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_assert.o	b22e1956ea26da9
+492	724	7212247761624955	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error.o	7870b6a5ab8f7a93
+342	764	7212247761835002	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_atomic.o	cd90b091268f0b1
+525	810	7212247762095064	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error_weak.o	29c9d82e41052a1e
+571	877	7212247763155302	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Drivers/nrfx_atomic.o	d7daa06e6215c610
+411	906	7212247763155302	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/None/system_nrf52.o	9e7964441f624f61
+692	1062	7212247764995717	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error_handler_iar.o	9b311b4c11e1d5ca
+903	1107	7212247765295780	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Log/nrf_log_frontend.o	2fb587f5af60fd08
+797	1140	7212247765295780	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Log/nrf_log_str_formatter.o	b91fabdcf9d2d4f5
+749	1171	7212247765295780	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_strerror.o	25c20bf41b815d81
+838	1218	7212247766576070	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_ringbuf.o	76baf0ffea8e047a
+936	1351	7212247767916377	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_memobj.o	5d1e246fd455325c
+1378	1431	7212247768746562	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/blinky_pca10040.out	6ef3c8b20c853688
+1452	1459	7212247769086641	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/blinky_pca10040.hex	d6c90c6f7fb1b3bc
+10	26	7212257477184208	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/None/iar_startup_nrf52.o	60309a8a4f82702
+3	283	7212257479624761	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_util_platform.o	63075ccb137ec6df
+52	335	7212257479724774	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_assert.o	b22e1956ea26da9
+6	372	7212257479864813	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/Application/main.o	d37dca2ac392bce3
+14	424	7212257480234889	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_balloc.o	688fa2aedd330747
+8	459	7212257480404932	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/Board Definition/boards.o	8398e1ab5c06933d
+12	495	7212257480424935	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_atomic.o	cd90b091268f0b1
+408	674	7212257483565649	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error.o	7870b6a5ab8f7a93
+370	701	7212257483595655	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf.o	40b89258dbcb6ebd
+528	749	7212257484025757	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error_handler_iar.o	9b311b4c11e1d5ca
+457	783	7212257483805711	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/app_error_weak.o	29c9d82e41052a1e
+492	834	7212257484975967	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/None/system_nrf52.o	9e7964441f624f61
+318	923	7212257486046221	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_fprintf_format.o	b0e2733277094482
+780	1001	7212257486856386	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Log/nrf_log_frontend.o	2fb587f5af60fd08
+732	1044	7212257487106446	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_strerror.o	25c20bf41b815d81
+817	1085	7212257487586568	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Log/nrf_log_str_formatter.o	b91fabdcf9d2d4f5
+698	1119	7212257487636560	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Drivers/nrfx_atomic.o	d7daa06e6215c610
+868	1225	7212257489096894	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_memobj.o	5d1e246fd455325c
+953	1364	7212257490477206	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/nRF_Libraries/nrf_ringbuf.o	76baf0ffea8e047a
+1401	1454	7212257491417418	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/blinky_pca10040.out	6ef3c8b20c853688
+1483	1490	7212257491827514	C:/Users/MusatovDA/plataMedcontrol/nRF5_SDK_17.1.0_ddde560/examples/MyProjects/BoardsTutorial/pca10040/blank/iar/_build/blinky_pca10040.hex	d6c90c6f7fb1b3bc
